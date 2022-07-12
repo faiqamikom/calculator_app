@@ -1,0 +1,15 @@
+C:\MY FILE\Document\KULIAH\MATKUL\S2\PEMROGRAMAN\tugas\ProjectPenjualan\ProjectPenjualan\bin\Debug\net6.0\ProjectPenjualan.exe
+C:\MY FILE\Document\KULIAH\MATKUL\S2\PEMROGRAMAN\tugas\ProjectPenjualan\ProjectPenjualan\bin\Debug\net6.0\ProjectPenjualan.deps.json
+C:\MY FILE\Document\KULIAH\MATKUL\S2\PEMROGRAMAN\tugas\ProjectPenjualan\ProjectPenjualan\bin\Debug\net6.0\ProjectPenjualan.runtimeconfig.json
+C:\MY FILE\Document\KULIAH\MATKUL\S2\PEMROGRAMAN\tugas\ProjectPenjualan\ProjectPenjualan\bin\Debug\net6.0\ProjectPenjualan.dll
+C:\MY FILE\Document\KULIAH\MATKUL\S2\PEMROGRAMAN\tugas\ProjectPenjualan\ProjectPenjualan\bin\Debug\net6.0\ProjectPenjualan.pdb
+C:\MY FILE\Document\KULIAH\MATKUL\S2\PEMROGRAMAN\tugas\ProjectPenjualan\ProjectPenjualan\obj\Debug\net6.0\ProjectPenjualan.csproj.AssemblyReference.cache
+C:\MY FILE\Document\KULIAH\MATKUL\S2\PEMROGRAMAN\tugas\ProjectPenjualan\ProjectPenjualan\obj\Debug\net6.0\ProjectPenjualan.GeneratedMSBuildEditorConfig.editorconfig
+C:\MY FILE\Document\KULIAH\MATKUL\S2\PEMROGRAMAN\tugas\ProjectPenjualan\ProjectPenjualan\obj\Debug\net6.0\ProjectPenjualan.AssemblyInfoInputs.cache
+C:\MY FILE\Document\KULIAH\MATKUL\S2\PEMROGRAMAN\tugas\ProjectPenjualan\ProjectPenjualan\obj\Debug\net6.0\ProjectPenjualan.AssemblyInfo.cs
+C:\MY FILE\Document\KULIAH\MATKUL\S2\PEMROGRAMAN\tugas\ProjectPenjualan\ProjectPenjualan\obj\Debug\net6.0\ProjectPenjualan.csproj.CoreCompileInputs.cache
+C:\MY FILE\Document\KULIAH\MATKUL\S2\PEMROGRAMAN\tugas\ProjectPenjualan\ProjectPenjualan\obj\Debug\net6.0\ProjectPenjualan.dll
+C:\MY FILE\Document\KULIAH\MATKUL\S2\PEMROGRAMAN\tugas\ProjectPenjualan\ProjectPenjualan\obj\Debug\net6.0\refint\ProjectPenjualan.dll
+C:\MY FILE\Document\KULIAH\MATKUL\S2\PEMROGRAMAN\tugas\ProjectPenjualan\ProjectPenjualan\obj\Debug\net6.0\ProjectPenjualan.pdb
+C:\MY FILE\Document\KULIAH\MATKUL\S2\PEMROGRAMAN\tugas\ProjectPenjualan\ProjectPenjualan\obj\Debug\net6.0\ProjectPenjualan.genruntimeconfig.cache
+C:\MY FILE\Document\KULIAH\MATKUL\S2\PEMROGRAMAN\tugas\ProjectPenjualan\ProjectPenjualan\obj\Debug\net6.0\ref\ProjectPenjualan.dll
